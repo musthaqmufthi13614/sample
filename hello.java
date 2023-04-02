@@ -6,7 +6,7 @@ class Hello{
     public static main void (String[]args){
     
     
-    System.print.outln(stmt1);
+    System.out.println(stmt1);
     
     }
 
